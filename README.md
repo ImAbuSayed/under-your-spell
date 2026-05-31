@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the static every time you look my way
+> A heavy gravity that pulls me through the gray
+> The shadows melt when you are standing in the frame
+> I lose my balance every time you call my name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
