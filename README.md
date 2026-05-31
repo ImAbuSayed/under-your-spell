@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-your-spell/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Under Your Spell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-your-spell/) |
+| **Get License** | [Obtain a Music License for Under Your Spell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-your-spell/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `63da71a35273b8862501852ee944d1aab0d8151d4520cc5d9d5cc535c52891fc` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

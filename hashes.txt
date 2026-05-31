@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Under Your Spell
+
+This log tracks the cryptographic history and versioning for the song **Under Your Spell** (under-your-spell).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T02:03:26.026612 | `v1` | `63da71a35273b8862501852ee944d1aab0d8151d4520cc5d9d5cc535c52891fc` | `d9435c6c9f5c5a73c1828183905bf3300bd33d90784be8ff4b0e1899096f7465` | `2026-06-01_under-your-spell-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
